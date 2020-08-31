@@ -1,0 +1,19 @@
+'External
+'10.76
+'
+'Enterprise
+TAG POS=23 TYPE=SMALL ATTR=TXT:
+TAG POS=23 TYPE=SMALL ATTR=TXT:
+'Portfolio
+'Value stream
+'Program
+'Team
+'Administration
+TAG POS=473 TYPE=SMALL ATTR=TXT:
+'products
+TAG POS=533 TYPE=SMALL ATTR=TXT:
+TAG POS=533 TYPE=SMALL ATTR=TXT:
+'Collaboration
+'Add options
+TAG POS=550 TYPE=SMALL ATTR=TXT:
+TAG POS=589 TYPE=SMALL ATTR=TXT:

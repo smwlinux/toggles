@@ -1,0 +1,16 @@
+'Team Lead
+'10.76
+'
+'Enterprise
+TAG POS=19 TYPE=SMALL ATTR=TXT:
+TAG POS=23 TYPE=SMALL ATTR=TXT:
+TAG POS=23 TYPE=SMALL ATTR=TXT:
+'Portfolio
+'Value stream
+'Program
+'Team
+'Administration
+'Products
+'Collaboration
+'Add options
+TAG POS=550 TYPE=SMALL ATTR=TXT:
